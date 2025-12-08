@@ -1,6 +1,6 @@
 # 👋 Hi there!
 
-I'm a **2nd Year Epitech Student** and I'm currently working with Adfinitas as a Web Developer for my first-year internship. I am actually learning web development and trying to create nice projects!
+I'm a **3rd Year Epitech Student** and I'm currently working with Adfinitas as a Web Developer for my first-year internship. I am actually learning web development and trying to create nice projects!
 
 ## 🌐 Languages
 
