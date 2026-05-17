@@ -53,10 +53,10 @@
 <table align="center">
   <tr>
     <td align="center">
-      <img src="dist/metrics-stats.svg" alt="GitHub Stats" />
+      <img src="https://github-readme-stats-weld-sigma-47.vercel.app/api?username=charliinew&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" alt="GitHub Stats" />
     </td>
     <td align="center">
-      <img src="dist/metrics-languages.svg" alt="Top Languages" />
+      <img src="https://github-readme-stats-weld-sigma-47.vercel.app/api/top-langs/?username=charliinew&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
     </td>
   </tr>
 </table>
